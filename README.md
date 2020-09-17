@@ -1,5 +1,12 @@
 # Churn--Project
 
+# [Project  : Churn Prediction ](https://github.com/bezerraluis/Churn--Project/blob/master/Projects/Churn.ipynb)
+
+
+![churn](https://github.com/bezerraluis/Churn--Project/blob/master/images/money_churn.jpg)
+
+
+
 # Description
 
 RowNumber - Row Numbers from 1 to 10000
